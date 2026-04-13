@@ -1,0 +1,36 @@
+# WordPress core (do not commit)
+wp-admin/
+wp-includes/
+wp-*.php
+xmlrpc.php
+index.php
+
+# WordPress config & secrets
+wp-config.php
+wp-config-sample.php
+.htaccess
+
+# Uploads and cache
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/backup-db/
+wp-content/backups/
+wp-content/blogs.dir/
+
+# Other themes and plugins (we only manage our custom theme)
+wp-content/themes/*
+!wp-content/themes/dreamam-architecting/
+wp-content/plugins/*
+!wp-content/plugins/.gitkeep
+wp-content/mu-plugins/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+*~
+.idea/
+.vscode/
+node_modules/

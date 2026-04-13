@@ -1,0 +1,19 @@
+/*
+Theme Name:     Dreamam Architecting
+Theme URI:      https://dreamam0.net/
+Author:         夢・アーキテクティング工房
+Author URI:     https://dreamam0.net/
+Description:    夢・アーキテクティング工房の公式Webサイト用カスタムテーマ。白×ネイビー基調、紫・七色の虹のアクセント。BtoB技術コンサルティング・組織開発支援のための、相談導線特化型テーマ。
+Version:        1.0.0
+Requires at least: 6.0
+Requires PHP:   7.4
+License:        Proprietary
+License URI:    https://dreamam0.net/
+Text Domain:    dreamam
+Tags:           business, consulting, blog, custom-menu, custom-logo, featured-images, threaded-comments, translation-ready
+*/
+
+/* =========================================================
+   Meta — 主要スタイルは assets/css/main.css に集約。
+   本ファイルはテーマヘッダーと最低限のリセットのみ記載。
+   ========================================================= */
